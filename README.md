@@ -1,23 +1,23 @@
 # AutoVoksal
 
-AutoVoksal - это приложение для покупки билетов на автобус дома, вместо того, что-юы есдить на авто вокзал.
+AutoVoksal - This is an application for buying bus tickets at home, instead of going to the bus station.
 
-Этот проэкт был написан с использование языка програмирования C#, WindowsForms, а так же с использованием SQL базы данных.
+This project was written using the C # programming language, WindowsForms, as well as using a SQL database.
 
-Программа состоит из таких файлов: 
- 1. [DataBase](./Kyrs/Kyrs/DataBase.cs) - Класс в котором описываються матоды для взаимодействия с базами данных.
- 2. [Form1](./Kyrs/Kyrs/Form1.cs) - Форма регистрации пользователя.
- 3. [Form2](./Kyrs/Kyrs/Form2.cs) - Форма поискового окна.
- 4. [Form3](./Kyrs/Kyrs/Form3.cs) - Форма покупки билетов.
- 5. [Form4](./Kyrs/Kyrs/Form4.cs) - Форма рефанда билетов.
- 6. [Form5](./Kyrs/Kyrs/Form5.cs) - Форма личного кабинета.
+The program consists of such files: 
+ 1. [DataBase](./Kyrs/Kyrs/DataBase.cs) - A class that describes matodes for interacting with databases.
+ 2. [Form1](./Kyrs/Kyrs/Form1.cs) - User registration form.
+ 3. [Form2](./Kyrs/Kyrs/Form2.cs) - Search window form.
+ 4. [Form3](./Kyrs/Kyrs/Form3.cs) - Ticket purchase form.
+ 5. [Form4](./Kyrs/Kyrs/Form4.cs) - Ticket refund form.
+ 6. [Form5](./Kyrs/Kyrs/Form5.cs) - Personal account form.
 
-В основном были использованы такие библиотеки, как:
+In this program were used such libraries as::
  1. MySql.Data.MySqlClient
  2. System.Windows.Forms
  3. System.Data
  
  
-# Запуск 
+# Starting 
 
- запуск происходит через запуск файла по пути: Kyrs/Kyrs/obj/Debug/AutoVoksal.exe
+The launch occurs through the launch of the file along the path: Kyrs/Kyrs/obj/Debug/AutoVoksal.exe
