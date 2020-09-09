@@ -2,7 +2,7 @@
 
 AutoVoksal - This is an application for buying bus tickets at home, instead of going to the bus station.
 
-This project was written using the C # programming language, WindowsForms, as well as using a SQL database.
+This project was written using the C# programming language, WindowsForms, as well as using a SQLdatabase.
 
 The program consists of such files: 
  1. [DataBase](./Kyrs/Kyrs/DataBase.cs) - A class that describes matodes for interacting with databases.
