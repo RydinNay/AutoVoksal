@@ -1,6 +1,6 @@
 # AutoVoksal
 
-AutoVoksal - This is an application for buying bus tickets at home, instead of going to the bus station.
+AutoVoksal - This is an application for purchasing bus tickets at home, instead of going to the bus station.
 
 This project was written using the C# programming language, WindowsForms, as well as using a SQLdatabase.
 
